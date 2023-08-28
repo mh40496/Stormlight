@@ -1,0 +1,6 @@
+G,M
+G,M
+G,M
+R,C
+E,M
+R,M

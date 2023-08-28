@@ -1,0 +1,6 @@
+Back up state:
+	* Happy with current state. More work still required.
+	
+Possible implementation beyond this state:
+	* Dun sphere variable + functions
+	* Functions to spend spheres, e.g. shops.

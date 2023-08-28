@@ -1,0 +1,12 @@
+D,C
+rr,as
+D,C
+G,M
+D,B
+R,C
+l,2
+1,L
+d,
+e,m,r
+
+e,p
