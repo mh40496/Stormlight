@@ -1,7 +1,7 @@
 <h1 align='center'>Stormlight Sphere Emulation V1 </h1>  
 <p align='center'>The current version references the "Rythm of War" book as the latest content. </p>
 
-## ⚙️ **Current Functionality**  
+## ✨ **Current Functionality**  
 <h3>[Object] Sphere:</h3>
 * type: The type of stone used as the base of the sphere </br>
 * size: The denomination of the sphere </br>
@@ -15,8 +15,11 @@
 * pouch: The container storing the Spheres </br>
 # Functions for checking whether the container is empty or full
 
-## 🟢 **Usage**  
+## 💻 **Usage**  
 WIP  
 
 ## 🚀 **Tests**  
 WIP  
+
+## 📝 **TO DO**
+Convert to C++
