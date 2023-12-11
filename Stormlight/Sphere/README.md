@@ -1,11 +1,16 @@
-Stormlight Sphere Emulation
+**Stormlight Sphere Emulation V1**
+The current version references the "Rythm of War" book as the latest content
 
-The purpose of this project is to emulate the currency/energy (Spheres) system of the high fantasy series of The Stormlight Archives.
-Spheres function as a trade commodity with different denominations same as real life currencies, but instead with added functionality
-and alternative values depending on the realm it is used in (Roshar/Shadesmar).
+**Current Functionality:**
+**Sphere:**
+Type of stone used as the base of the sphere
+Size denomination of the sphere
+Charge currently stored within the sphere
+Charge Type of infusion variant stored within the sphere
+Functions to convert object values to strings for display
 
-To run the project:
+**To run the project:**
 WIP
 
-TESTS:
+**TESTS:**
 WIP
