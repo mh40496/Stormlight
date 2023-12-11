@@ -1,4 +1,4 @@
-**Stormlight Sphere Emulation V1**
+**Stormlight Sphere Emulation V1**\n
 The current version references the "Rythm of War" book as the latest content
 
 **Current Functionality:**
