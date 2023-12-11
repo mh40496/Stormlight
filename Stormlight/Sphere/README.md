@@ -1,5 +1,5 @@
 <h1 align='center'>Stormlight Sphere Emulation V1 </h1>  
-The current version references the "Rythm of War" book as the latest content.  
+<p align='center'>The current version references the "Rythm of War" book as the latest content. </p>
 
 ## ⚙️ **Current Functionality**  
 <h3>[Object] Sphere:</h3>
